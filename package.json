@@ -1,0 +1,19 @@
+{
+  "name": "week-8-dom-manipulation",
+  "version": "1.0.0",
+  "description": "learn DOM manipulation using basic javascript selectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeYourFuture/week-8-DOM-manipulation.git"
+  },
+  "author": "CYF Mentors",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeYourFuture/week-8-DOM-manipulation/issues"
+  },
+  "homepage": "https://github.com/CodeYourFuture/week-8-DOM-manipulation#readme"
+}
